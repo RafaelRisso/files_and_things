@@ -1,0 +1,50 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                script {
+                    // Comando para construir a aplicação .NET
+                    bat 'dotnet build'
+                }
+            }
+        }
+        stage('Test') {
+            steps {
+                script {
+                    // Comando para rodar testes automatizados
+                    bat 'dotnet test'
+                }
+            }
+        }
+        stage('Package') {
+            steps {
+                script {
+                    // Comando para empacotar a aplicação
+                    bat 'dotnet publish -c Release -o ./publish'
+                }
+            }
+        }
+        stage('Deploy') {
+            steps {
+                script {
+                    // Comando para fazer o deploy da aplicação
+                    // Exemplo: copiar para um servidor ou serviço em nuvem
+                    bat 'dotnet ./publish/MinhaAplicacao.dll'
+                }
+            }
+        }
+    }
+
+    post {
+        success {
+            // Notificações ou ações em caso de sucesso
+            echo 'Deploy realizado com sucesso!'
+        }
+        failure {
+            // Notificações ou ações em caso de falha
+            echo 'Ocorreu um erro durante o deploy.'
+        }
+    }
+}
