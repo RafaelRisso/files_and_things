@@ -36,3 +36,18 @@ Propostas para reconfiguração das ferramentas em uso, visando otimização e m
 1. **Clone o Repositório**: 
    ```bash
    git clone <URL_DO_REPOSITORIO>
+
+2. **Revise os Documentos: Abra os arquivos markdown para entender as propostas e recomendações.**
+
+3. **Implemente as Sugestões: Utilize as informações para validar, corrigir e otimizar sua arquitetura de soluções.**
+
+3. **Automatize com Jenkins: Implemente o Jenkinsfile em sua configuração de CI/CD para melhorar o processo de deploy.**
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+## Licença
+Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+
+## Contato
+Para mais informações, entre em contato através do e-mail: - [rafaelrisso@gmail.com](rafaelrisso@gmail.com)
