@@ -8,7 +8,7 @@ Este repositório contém documentos e scripts relacionados à Arquitetura de So
   
 - [correcao_arquitetura.md](https://github.com/RafaelRisso/files_and_things/blob/main/correcao_arquitetura.md): Análise e propostas de melhorias para a arquitetura de aplicações já existentes, considerando custo e desempenho.
 
-- [Jenkinsfile](link-para-jenkinsfile): Script de automação para o Jenkins, utilizado para o processo de build, test e deploy de uma aplicação .NET.
+- [Jenkinsfile](https://github.com/RafaelRisso/files_and_things/blob/main/JenkinsFileDotNet): Script de automação para o Jenkins, utilizado para o processo de build, test e deploy de uma aplicação .NET.
 
 - [ferramentas_livres.md](link-para-ferramentas-livres): Sugestões de ferramentas open-source para inclusão ou substituição na arquitetura de soluções.
 
