@@ -6,7 +6,7 @@ Este repositório contém documentos e scripts relacionados à Arquitetura de So
 
 - [validacao_arquitetura.md](https://github.com/RafaelRisso/files_and_things/blob/main/validacao_arquitetura.md): Checklist para validar a arquitetura de novos sistemas, assegurando que todos os requisitos funcionais e não funcionais sejam atendidos.
   
-- [correcao_arquitetura.md](link-para-correcao-arquitetura): Análise e propostas de melhorias para a arquitetura de aplicações já existentes, considerando custo e desempenho.
+- [correcao_arquitetura.md](https://github.com/RafaelRisso/files_and_things/blob/main/correcao_arquitetura.md): Análise e propostas de melhorias para a arquitetura de aplicações já existentes, considerando custo e desempenho.
 
 - [Jenkinsfile](link-para-jenkinsfile): Script de automação para o Jenkins, utilizado para o processo de build, test e deploy de uma aplicação .NET.
 
