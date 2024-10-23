@@ -41,7 +41,7 @@ Propostas para reconfiguração das ferramentas em uso, visando otimização e m
 
 3. **Implemente as Sugestões: Utilize as informações para validar, corrigir e otimizar sua arquitetura de soluções.**
 
-3. **Automatize com Jenkins: Implemente o Jenkinsfile em sua configuração de CI/CD para melhorar o processo de deploy.**
+
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
