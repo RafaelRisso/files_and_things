@@ -12,7 +12,7 @@ Este repositório contém documentos e scripts relacionados à Arquitetura de So
 
 - [ferramentas_livres.md](https://github.com/RafaelRisso/files_and_things/blob/main/ferramentas_livres.md): Sugestões de ferramentas open-source para inclusão ou substituição na arquitetura de soluções.
 
-- [reconfiguracao_integracao.md](link-para-reconfiguracao-integracao): Propostas de reconfiguração e otimização da integração entre ferramentas existentes.
+- [reconfiguracao_integracao.md](https://github.com/RafaelRisso/files_and_things/blob/main/reconfiguracao_integracao.md): Propostas de reconfiguração e otimização da integração entre ferramentas existentes.
 
 ## Descrição dos Arquivos
 
