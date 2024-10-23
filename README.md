@@ -4,15 +4,15 @@ Este repositório contém documentos e scripts relacionados à Arquitetura de So
 
 ## Estrutura do Repositório
 
-- `validacao_arquitetura.md`: Checklist para validar a arquitetura de novos sistemas, assegurando que todos os requisitos funcionais e não funcionais sejam atendidos.
+- [validacao_arquitetura.md](link-para-validacao-arquitetura): Checklist para validar a arquitetura de novos sistemas, assegurando que todos os requisitos funcionais e não funcionais sejam atendidos.
   
-- `correcao_arquitetura.md`: Análise e propostas de melhorias para a arquitetura de aplicações já existentes, considerando custo e desempenho.
+- [correcao_arquitetura.md](link-para-correcao-arquitetura): Análise e propostas de melhorias para a arquitetura de aplicações já existentes, considerando custo e desempenho.
 
-- `Jenkinsfile`: Script de automação para o Jenkins, utilizado para o processo de build, test e deploy de uma aplicação .NET.
+- [Jenkinsfile](link-para-jenkinsfile): Script de automação para o Jenkins, utilizado para o processo de build, test e deploy de uma aplicação .NET.
 
-- `ferramentas_livres.md`: Sugestões de ferramentas open-source para inclusão ou substituição na arquitetura de soluções.
+- [ferramentas_livres.md](link-para-ferramentas-livres): Sugestões de ferramentas open-source para inclusão ou substituição na arquitetura de soluções.
 
-- `reconfiguracao_integracao.md`: Propostas de reconfiguração e otimização da integração entre ferramentas existentes.
+- [reconfiguracao_integracao.md](link-para-reconfiguracao-integracao): Propostas de reconfiguração e otimização da integração entre ferramentas existentes.
 
 ## Descrição dos Arquivos
 
