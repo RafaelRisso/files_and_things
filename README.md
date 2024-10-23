@@ -4,7 +4,7 @@ Este repositório contém documentos e scripts relacionados à Arquitetura de So
 
 ## Estrutura do Repositório
 
-- [validacao_arquitetura.md](link-para-validacao-arquitetura): Checklist para validar a arquitetura de novos sistemas, assegurando que todos os requisitos funcionais e não funcionais sejam atendidos.
+- [validacao_arquitetura.md](https://github.com/RafaelRisso/files_and_things/blob/main/validacao_arquitetura.md): Checklist para validar a arquitetura de novos sistemas, assegurando que todos os requisitos funcionais e não funcionais sejam atendidos.
   
 - [correcao_arquitetura.md](link-para-correcao-arquitetura): Análise e propostas de melhorias para a arquitetura de aplicações já existentes, considerando custo e desempenho.
 
