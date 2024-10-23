@@ -10,7 +10,7 @@ Este repositório contém documentos e scripts relacionados à Arquitetura de So
 
 - [Jenkinsfile](https://github.com/RafaelRisso/files_and_things/blob/main/JenkinsFileDotNet): Script de automação para o Jenkins, utilizado para o processo de build, test e deploy de uma aplicação .NET.
 
-- [ferramentas_livres.md](link-para-ferramentas-livres): Sugestões de ferramentas open-source para inclusão ou substituição na arquitetura de soluções.
+- [ferramentas_livres.md](https://github.com/RafaelRisso/files_and_things/blob/main/ferramentas_livres.md): Sugestões de ferramentas open-source para inclusão ou substituição na arquitetura de soluções.
 
 - [reconfiguracao_integracao.md](link-para-reconfiguracao-integracao): Propostas de reconfiguração e otimização da integração entre ferramentas existentes.
 
