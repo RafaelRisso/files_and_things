@@ -47,7 +47,7 @@ Propostas para reconfiguração das ferramentas em uso, visando otimização e m
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 ## Licença
-Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
-Para mais informações, entre em contato através do e-mail: - [rafaelrisso@gmail.com](rafaelrisso@gmail.com)
+Para mais informações, entre em contato através do e-mail:  [rafaelrisso@gmail.com](mailto:rafaelrisso@gmail.com)
